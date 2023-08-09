@@ -1,2 +1,2 @@
 #!/bin/bash
-ls L>>>long formet 
+ls -1 
